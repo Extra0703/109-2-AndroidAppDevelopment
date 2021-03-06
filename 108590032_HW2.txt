@@ -1,8 +1,12 @@
 Question 1
-activity_main.xml
+app:layout_constraintBottom_toTopOf="@+id/button_count"
+app:layout_constraintTop_toBottomOf="@+id/button_toast"
+
 Question 2
-app_name
+app:layout_constraintTop_toBottomOf="@+id/button_toast"
+
 Question 3
-AVD Manager
+public void callMethod(View view)
+
 Question 4
-Verbose, Info
+Use findViewById to find the Count Button. Assign the result to a View variable, and then use setBackgroundColor()
