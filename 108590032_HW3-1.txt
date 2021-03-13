@@ -1,0 +1,8 @@
+Question 1
+One view only
+
+Question 2
+android:orientation="horizontal"
+
+Question 3
+android:layout_width="match_parent"

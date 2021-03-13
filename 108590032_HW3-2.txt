@@ -1,0 +1,14 @@
+Question 1
+The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
+
+Question 2
+The Back button no longer works in the second Activity to send the user back to the main Activity.
+
+Question 3
+new Intent()
+
+Question 4
+As an Intent extra
+
+Question 5
+All of the above.
